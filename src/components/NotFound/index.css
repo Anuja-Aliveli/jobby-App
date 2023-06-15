@@ -1,0 +1,24 @@
+.not-bg-container {
+    height: 100vh;
+    background-color: #000000;
+    font-family: 'Roboto';
+}
+.not-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+.not-image {
+  width: 300px;
+  height: 200px;
+}
+.not-head {
+  color: #f1f5f9;
+  font-size: 20px;
+}
+.page-text {
+  color: #b6c5ff;
+  font-size: 15px;
+}
